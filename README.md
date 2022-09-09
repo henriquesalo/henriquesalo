@@ -17,8 +17,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="hrs-C" height="30" width="40" src="https://media.discordapp.net/attachments/976600914800566322/1017601185349382205/icons8-programacao-c-48.png">
-    <img align="center" alt="hrs-fluter" height="30" width="10" src="https://cdn.discordapp.com/attachments/976600914800566322/1017599179759026228/flutterLogo.png">
+  <img align="center" alt="hrs-C" height="30" width="30" src="https://media.discordapp.net/attachments/976600914800566322/1017601185349382205/icons8-programacao-c-48.png">
+    <img align="center" alt="hrs-fluter" height="30" width="30" src="https://cdn.discordapp.com/attachments/976600914800566322/1017599179759026228/flutterLogo.png">
 </div>
 
 ![Snake animation](https://github.com/henriquesalo/henriquesalo/blob/output/github-contribution-grid-snake.svg)
