@@ -1,9 +1,9 @@
 ### Olá! Eu sou Henrique Salomão 👋
 
-- 🔭 Hoje trabalho com HTML/CSS, JavaScript, Flutter e Design Gráfico
-- 🌱 Estudate de Engenharia de Software, 2º Semestre, UCB
+- 🔭 Hoje trabalho com Desenvolvimento Web e Python  
+- 🌱 Estudate de Engenharia de Software, 3º Semestre, UCB
 - 📫 Contate-me no e-mail: Henriquersalomao@gmail.com
-- ⚡ Estudando Python e Game Developing
+- ⚡ Estudando Game Development
 
 <div align="center">
   <a href="https://github.com/henriquesalo">
