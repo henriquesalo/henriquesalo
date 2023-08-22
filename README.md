@@ -1,7 +1,7 @@
 ### Olá! Eu sou Henrique Salomão 👋
 
 - 🔭 Hoje trabalho com Desenvolvimento Web e Python  
-- 🌱 Estudate de Engenharia de Software, 3º Semestre, UCB
+- 🌱 Estudate de Engenharia de Software, 4º Semestre, UCB
 - 📫 Contate-me no e-mail: Henriquersalomao@gmail.com
 - ⚡ Estudando Game Development
 
