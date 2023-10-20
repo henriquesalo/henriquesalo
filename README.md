@@ -20,7 +20,7 @@
  <img align="center" alt="hrs-C" height="34" width="34" src="https://media.discordapp.net/attachments/976600914800566322/1017601185349382205/icons8-programacao-c-48.png">
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="hrs-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="hrs-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<!-- <img align="center" alt="hrs-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
 </div>
 <br><br>
 <div> 
