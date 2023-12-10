@@ -1,9 +1,8 @@
 ### Olá! Eu sou Henrique Salomão 👋
 
 - 🔭 Hoje trabalho com Desenvolvimento Web e Design Gráfico  
-- 🌱 Estudate de Engenharia de Software, 4º Semestre, UCB
-- 📫 Contate-me no e-mail: Henriquersalomao@gmail.com
-- ⚡ Estudando Game Development
+- 🌱 Estudate de Engenharia de Software, 5º Semestre, UCB
+- 📫 Contate-me no e-mail: Henriquesalomaodev@gmail.com
 
 <div align="center">
   <a href="https://github.com/henriquesalo">
