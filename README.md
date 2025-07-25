@@ -20,7 +20,7 @@
   <img align="center" alt="hrs-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="hrs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="hrs-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="hrs-Type" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/typescript-plain.svg">
+  <img align="center" alt="hrs-Type" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 <br><br>
 <div> 
