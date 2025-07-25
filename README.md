@@ -2,7 +2,7 @@
 
 - Analista de Tecnologia na Yssy Soluçoes Co.
 - 🔭 Trabalho como Desenvolvedor Web e Designer Freelancer
-- 🌱 Estudate de Engenharia de Software, 5º Semestre, UCB
+- 🌱 Estudate de Engenharia de Software, 8º Semestre, UCB
 - 📫 Contate-me no e-mail: Henriquesalomaodev@gmail.com
 
 <div align="center">
@@ -20,6 +20,7 @@
   <img align="center" alt="hrs-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="hrs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="hrs-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="hrs-Type" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/typescript-plain.svg">
 </div>
 <br><br>
 <div> 
