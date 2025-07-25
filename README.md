@@ -1,7 +1,7 @@
 ### Olá! Eu sou Henrique Salomão 👋
 
 - Analista de Tecnologia na Yssy Soluçoes Co.
-- 🔭 Trabalho como Desenvolvedor Web e Designer Freelancer
+- 🔭 Trabalho como Desenvolvedor Web
 - 🌱 Estudate de Engenharia de Software, 8º Semestre, UCB
 - 📫 Contate-me no e-mail: Henriquesalomaodev@gmail.com
 
