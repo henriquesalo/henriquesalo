@@ -1,8 +1,9 @@
 ### Olá! Eu sou Henrique Salomão 👋
 
-- 🔭 Analista de Tecnologia na Yssy Soluçoes Co.
-- 🌱 Estudate de Engenharia de Software, 8º Semestre, UCB
-- 📫 Contate-me no e-mail: Henriquesalomaodev@gmail.com
+💻 Desenvolvedor Full-Stack em formação | Cursando 8° Semestre de Engenharia de Software (UCB)
+🚀 Apaixonado por criar soluções inovadoras e funcionais, com experiência em Front-end (HTML, CSS, JavaScript, React, Tailwind, Vite) e Back-end (NodeJS, TypeScript, SQL, Supabase, Firebase, Prisma).
+🤖 Conhecimento em automação e inteligência artificial com Python e APIs, além de experiência com testes automatizados (Cypress) e versionamento (Git/GitHub).
+🎯 Idiomas: Português (nativo), Inglês (avançado) e Espanhol (básico).
 
 <div align="center">
   <a href="https://github.com/henriquesalo">
